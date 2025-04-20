@@ -1,5 +1,5 @@
  
-import Zenith from "./Components/Zenith.jsx"
+import Zenith from "./Zenith.jsx"
 import './App.css'
 const App = () => {
   return (
